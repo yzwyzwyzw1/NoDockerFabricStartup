@@ -203,7 +203,7 @@ make querychaincode
 正确的输出结果:
 ```
 90
-``
+```
 
 
 
